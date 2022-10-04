@@ -1,2 +1,2 @@
-# Projetos-IBM-Labrat-ria
-Projetos desenvolvidos na Certificação em Análise de Dados - IBM/Laboratória
+# Projetos-IBM-Labratoria
+Projetos desenvolvidos na Certificação em Análise de Dados - IBM/Laboratoria
