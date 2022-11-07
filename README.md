@@ -1,4 +1,4 @@
-# Projetos desenvolvidos na Certificação em Análise de Dados - IBM/Laboratoria
+# Projetos da Certificação em Análise de Dados - IBM/Laboratoria
 
 Com os princípios de apropriação da aprendizagem, colaboração e aprender fazendo, durante a certificação foram desenvolvidos 6 projetos inspirados em casos de negócios reais, criados por profissionais do setor, utilizando as seguintes abordagens e ferramentas: 
 
