@@ -14,4 +14,4 @@ Com os princípios de apropriação da aprendizagem, colaboração e aprender fa
 * dashboards com Google Data Studio e Power BI
 * Python
 
-POSTAGEM DO PROJETOS EM BREVE!
+
