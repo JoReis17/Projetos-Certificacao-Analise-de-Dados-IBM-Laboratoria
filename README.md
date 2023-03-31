@@ -1,4 +1,7 @@
-# Projetos da Certificação em Análise de Dados - IBM/Laboratoria
+# Projetos da Certificação em Análise de Dados - Laboratoria e IBM.
+ 
+:yellow_heart: :octocat: :chart_with_upwards_trend:    :bar_chart:    :chart_with_downwards_trend: :blue_heart:
+
 
 Com os princípios de apropriação da aprendizagem, colaboração e aprender fazendo, durante a certificação foram desenvolvidos 6 projetos inspirados em casos de negócios reais, criados por profissionais do setor, utilizando as seguintes abordagens e ferramentas: 
 
@@ -17,4 +20,9 @@ Com os princípios de apropriação da aprendizagem, colaboração e aprender fa
 
 
 A certificação teve duração de 16 semanas, com 15h semanais, sendo 8h síncronas e 7h assíncronas. Os meetups, cursos, oficinas e workshops aconteceram no formato online.
+
+## Projetos
+
+
+
 
