@@ -31,7 +31,7 @@ A certificação teve duração de 16 semanas, com 15h semanais, sendo 8h síncr
 ![image](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![image](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)
 ![image](https://user-images.githubusercontent.com/65137294/229143478-bba00c4f-3265-47fb-b1fa-f162a524ada2.png)
-![image](https://img.shields.io/badge/Storytelling-FECC00?style=for-the-badge&logo=<Laboratoria>&logoColor=white)
+![image](https://img.shields.io/badge/Storytelling-CCFF00?style=for-the-badge&logo=<Laboratoria>&logoColor=white)
 
 
 
