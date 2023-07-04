@@ -1,0 +1,23 @@
+Projeto 2 - Retenção de Startup Tecnológica
+
+Objetivo: Realizar uma análise por coorte para medir a retenção de um Saas Tecnológico.
+
+Neste projeto, foram realizadas análises com base em um conjunto de dados sobre os clientes que usam um software de gestão de
+despesas na nuvem. Para responder às perguntas de negócios que surgiram, foi preciso entender a estrutura dos dados, analisá-los
+e entender as métricas de negócios que permitiram comunicar suas descobertas e apoiar a tomada de decisões.
+
+O projeto foi todo desenvolvido em planilhas do Google Sheets e com uso de técncias para limpeza e tratamento dos dados, uso de
+tabelas dinâmicas, PROCV (VLOOKUP), Query, entre outras técnicas.
+
+Objetivos de aprendizaje:
+
+- Entender o conceito de Product Market Fit;
+- Manipular dados em planilhas;
+- Organizar os dados em planilhas;
+- Realizar uma análise por coorte;
+- Selecionar e filtrar dados usando consultas;
+- Tomar decisões de negócios com base em dados.
+
+O trabalho pode ser consultado no link abaixo:
+
+https://docs.google.com/spreadsheets/d/1pa0tUk7B7VtkuKBLu340bnwd2CKzz-JduNINBjUwNKg/edit?usp=sharing 
