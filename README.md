@@ -1,4 +1,4 @@
-# Projetos da Certificação em Análise de Dados - Laboratoria e IBM. 
+# Projetos da Certificação em Análise de Dados - Laboratoria/IBM. 
  
 :yellow_heart: :octocat: :chart_with_upwards_trend:    :bar_chart:    :chart_with_downwards_trend:  :blue_heart:
 
